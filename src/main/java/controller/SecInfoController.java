@@ -54,7 +54,7 @@ public class SecInfoController implements Initializable {
 
     }
 
-    public void OnLogOutBunttonCLick (ActionEvent event) {
+    public void OnLogOutButtonCLick(ActionEvent event) {
         SceneManager.changeScene(event,"login.fxml");
     }
 

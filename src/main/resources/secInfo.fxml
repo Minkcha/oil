@@ -49,7 +49,7 @@
                         <Insets left="10.0" />
                      </HBox.margin>
                   </Label>
-                  <Button contentDisplay="CENTER" mnemonicParsing="false" onAction="#OnLogOutBunttonCLick" prefHeight="38.0" prefWidth="89.0" style="-fx-background-color: #797D7F;" text="Log out" textAlignment="CENTER" textFill="#f2ecec">
+                  <Button contentDisplay="CENTER" mnemonicParsing="false" onAction="#OnLogOutButtonCLick" prefHeight="38.0" prefWidth="89.0" style="-fx-background-color: #797D7F;" text="Log out" textAlignment="CENTER" textFill="#f2ecec">
                      <font>
                         <Font size="15.0" />
                      </font>
